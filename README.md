@@ -1,4 +1,4 @@
-# Python Automation Scripts 🐍
+# Python Automation Scripts 
 
 Welcome to my Python script repository. This space tracks the core automated components, text processing algorithms, and logic tools I am building to streamline system tasks. 
 
@@ -6,9 +6,9 @@ Currently, it hosts a deep dive into Python's foundation layers, concentrating h
 
 ---
 
-## 🛠️ Script Inventory & Breakdown
+## Script Inventory & Breakdown
 
-### 📂 Core Module: `string_manipulation_basics.py`
+### Core Module: `string_manipulation_basics.py`
 This module serves as a foundation layout covering Python memory handling, raw string evaluation, and user input data transformations.
 
 * **Dynamic I/O & Type-Casting:** Examples demonstrating runtime console input processing, verification logic using logical constraints (`is`, `in`), and functional casting mechanics converting string data streams into integer parameters (`int()`).
