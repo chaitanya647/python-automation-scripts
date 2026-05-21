@@ -8,7 +8,9 @@ Currently, it hosts a deep dive into Python's foundation layers, concentrating h
 
 ## Script Inventory & Breakdown
 
-### Core Module: `string_manipulation_basics.py`
+### Core Module: [`string_manipulation_basics.py`](./string_manipulation_basics.py)
+*(Click title to view the script file)*
+
 This module serves as a foundation layout covering Python memory handling, raw string evaluation, and user input data transformations.
 
 * **Dynamic I/O & Type-Casting:** Examples demonstrating runtime console input processing, verification logic using logical constraints (`is`, `in`), and functional casting mechanics converting string data streams into integer parameters (`int()`).
